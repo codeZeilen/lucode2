@@ -41,9 +41,9 @@ package2readme("lucode2")
 #> use citation function
 #> # Code Manipulation and Analysis Tools
 #> 
-#> R package **lucode2**, version **0.54.3**
+#> R package **lucode2**, version **0.57.1**
 #> 
-#> [![CRAN status](https://www.r-pkg.org/badges/version/lucode2)](https://cran.r-project.org/package=lucode2) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4389418.svg)](https://doi.org/10.5281/zenodo.4389418) [![r-universe](https://pik-piam.r-universe.dev/badges/lucode2)](https://pik-piam.r-universe.dev/builds)
+#>   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4389418.svg)](https://doi.org/10.5281/zenodo.4389418) [![r-universe](https://pik-piam.r-universe.dev/badges/lucode2)](https://pik-piam.r-universe.dev/builds)
 #> 
 #> ## Purpose and Functionality
 #> 
@@ -62,13 +62,13 @@ package2readme("lucode2")
 #> 
 #> After that the most recent version of the package can be installed using `install.packages`:
 #> 
-#> ```r 
+#> ```r
 #> install.packages("lucode2")
 #> ```
 #> 
 #> Package updates can be installed using `update.packages` (make sure that the additional repository has been added before running that command):
 #> 
-#> ```r 
+#> ```r
 #> update.packages()
 #> ```
 #> 
@@ -80,16 +80,16 @@ package2readme("lucode2")
 #> 
 #> To cite package **lucode2** in publications use:
 #> 
-#> Dietrich J, Sauer P, Klein D, Giannousakis A, Bonsch M, Bodirsky B, Baumstark L, Richters O, Pflüger M, Rein P (2026). _lucode2: Code Manipulation and Analysis Tools_. R package version 0.54.3.
+#> Dietrich J, Sauer P, Klein D, Giannousakis A, Bonsch M, Bodirsky B, Baumstark L, Richters O, Pflüger M, Rein P, Rüter T (2026). _lucode2: Code Manipulation and Analysis Tools_. R package version 0.57.1.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>  ```latex
 #> @Manual{,
 #>   title = {lucode2: Code Manipulation and Analysis Tools},
-#>   author = {Jan Philipp Dietrich and Pascal Sauer and David Klein and Anastasis Giannousakis and Markus Bonsch and Benjamin Leon Bodirsky and Lavinia Baumstark and Oliver Richters and Mika Pflüger and Patrick Rein},
+#>   author = {Jan Philipp Dietrich and Pascal Sauer and David Klein and Anastasis Giannousakis and Markus Bonsch and Benjamin Leon Bodirsky and Lavinia Baumstark and Oliver Richters and Mika Pflüger and Patrick Rein and Tonn Rüter},
 #>   year = {2026},
-#>   note = {R package version 0.54.3},
+#>   note = {R package version 0.57.1},
 #> }
 #> ```
 ```
